@@ -1,6 +1,4 @@
-# service-browser
-A specialized web browser, which downloads and displays interactive Java GUIs
-<h1 align="right">Beat Box</h1><br>
+<h1 align="right">Service Browser</h1><br>
 
 ## Table of contents
 * [General info](#general-info)
